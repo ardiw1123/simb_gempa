@@ -1,0 +1,106 @@
+/* css/style.css */
+:root {
+  --primary-color: #0d6efd;
+  --danger-color: #dc3545;
+  --warning-color: #ffc107;
+  --success-color: #198754;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 60px 0;
+  margin-bottom: 40px;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  height: 100%;
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.intensity-badge {
+  font-size: 1rem;
+  padding: 8px 15px;
+}
+
+#map {
+  height: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.table-wrapper {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.magnitude-circle {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+}
+
+.mag-low {
+  background-color: #28a745;
+}
+.mag-medium {
+  background-color: #ffc107;
+  color: #000;
+}
+.mag-high {
+  background-color: #fd7e14;
+}
+.mag-critical {
+  background-color: #dc3545;
+}
+
+.form-section {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.auth-container {
+  max-width: 450px;
+  margin: 50px auto;
+}
+
+.alert-custom {
+  border-left: 4px solid;
+}

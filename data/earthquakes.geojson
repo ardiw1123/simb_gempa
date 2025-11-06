@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.2,
+        "place": "12 km selatan Bantul, Yogyakarta",
+        "time": 1699084800000,
+        "depth": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3287, -7.9875, 10]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.8,
+        "place": "Laut Banda, 45 km barat daya Ambon",
+        "time": 1699171200000,
+        "depth": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.1806, -3.6953, 25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.5,
+        "place": "8 km timur laut Sukabumi, Jawa Barat",
+        "time": 1699257600000,
+        "depth": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9378, -6.9175, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 7.1,
+        "place": "Samudra Hindia, 180 km barat daya Bengkulu",
+        "time": 1699344000000,
+        "depth": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.3712, -4.5192, 35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.2,
+        "place": "15 km utara Garut, Jawa Barat",
+        "time": 1699430400000,
+        "depth": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.908, -7.2193, 12]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.8,
+        "place": "Laut Flores, 50 km utara Maumere, NTT",
+        "time": 1699516800000,
+        "depth": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.2121, -8.1172, 20]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "22 km barat Lombok Timur, NTB",
+        "time": 1699603200000,
+        "depth": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.35, -8.5611, 18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.5,
+        "place": "Sulawesi Tengah, 30 km selatan Palu",
+        "time": 1699689600000,
+        "depth": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.8707, -1.2026, 22]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.2,
+        "place": "10 km barat daya Tasikmalaya, Jawa Barat",
+        "time": 1699776000000,
+        "depth": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2019, -7.3267, 8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.5,
+        "place": "Papua, 65 km timur Jayapura",
+        "time": 1699862400000,
+        "depth": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.0419, -2.5333, 30]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.0,
+        "place": "Aceh, 25 km barat laut Banda Aceh",
+        "time": 1699948800000,
+        "depth": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.1183, 5.7083, 16]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.8,
+        "place": "Maluku Utara, 18 km selatan Ternate",
+        "time": 1700035200000,
+        "depth": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.3667, 0.5667, 14]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.9,
+        "place": "Kepulauan Mentawai, 95 km barat Padang",
+        "time": 1700121600000,
+        "depth": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.3419, -1.2749, 28]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.6,
+        "place": "Bali, 12 km timur Denpasar",
+        "time": 1700208000000,
+        "depth": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.3322, -8.65, 11]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.3,
+        "place": "Sumatra Selatan, 40 km tenggara Palembang",
+        "time": 1700294400000,
+        "depth": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.9908, -3.3181, 19]
+      }
+    }
+  ]
+}
