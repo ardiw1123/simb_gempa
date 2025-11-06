@@ -104,3 +104,52 @@ footer {
 .alert-custom {
   border-left: 4px solid;
 }
+
+/* Tambahan untuk laporan user */
+.table td {
+  vertical-align: middle;
+}
+
+.text-truncate {
+  cursor: help;
+}
+
+.table-danger thead {
+  background-color: #dc3545;
+  color: white;
+}
+
+.table-danger thead th {
+  border-color: #dc3545;
+}
+
+.badge {
+  font-size: 0.85rem;
+  padding: 6px 12px;
+}
+
+/* Responsive table improvements */
+@media (max-width: 768px) {
+  .table-responsive {
+    font-size: 0.875rem;
+  }
+
+  .intensity-badge {
+    font-size: 0.75rem;
+    padding: 4px 8px;
+  }
+}
+
+/* Tambahan untuk custom marker */
+.custom-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  margin: 15px;
+}
