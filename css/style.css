@@ -687,47 +687,47 @@ footer {
 
 /* Admin Panel Enhancements */
 .table td {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 .btn-sm {
-    padding: 5px 10px;
-    font-size: 0.875rem;
+  padding: 5px 10px;
+  font-size: 0.875rem;
 }
 
 .btn-danger:hover {
-    transform: scale(1.05);
-    transition: all 0.2s ease;
+  transform: scale(1.05);
+  transition: all 0.2s ease;
 }
 
 /* Modal Enhancements */
 .modal-content {
-    border: none;
-    border-radius: 15px;
-    overflow: hidden;
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
 }
 
 .modal-header {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 .modal-footer {
-    border-top: 1px solid #dee2e6;
+  border-top: 1px solid #dee2e6;
 }
 
 /* Link to Google Maps */
 a[target="_blank"] {
-    color: #0d6efd;
-    transition: color 0.2s ease;
+  color: #0d6efd;
+  transition: color 0.2s ease;
 }
 
-a[target="_blank]:hover {
-    color: #0a58ca;
-    text-decoration: underline;
+a[target="_blank"]:hover {
+  color: #0a58ca;
+  text-decoration: underline;
 }
 
 /* Table hover effect */
 .table-hover tbody tr:hover {
-    background-color: #f8f9fa;
-    cursor: pointer;
+  background-color: #f8f9fa;
+  cursor: pointer;
 }
