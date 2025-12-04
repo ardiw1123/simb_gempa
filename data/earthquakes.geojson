@@ -6,8 +6,9 @@
       "properties": {
         "mag": 6.2,
         "place": "12 km selatan Bantul, Yogyakarta",
-        "time": 1699084800000,
-        "depth": 10
+        "date": "12/8/2025",
+        "depth": 10,
+        "time": 1755004021000
       },
       "geometry": {
         "type": "Point",
@@ -19,8 +20,9 @@
       "properties": {
         "mag": 5.8,
         "place": "Laut Banda, 45 km barat daya Ambon",
-        "time": 1699171200000,
-        "depth": 25
+        "date": "18/5/2025",
+        "depth": 25,
+        "time": 1747585035000
       },
       "geometry": {
         "type": "Point",
@@ -32,8 +34,9 @@
       "properties": {
         "mag": 4.5,
         "place": "8 km timur laut Sukabumi, Jawa Barat",
-        "time": 1699257600000,
-        "depth": 15
+        "date": "7/10/2025",
+        "depth": 15,
+        "time": 1759795727000
       },
       "geometry": {
         "type": "Point",
@@ -45,8 +48,9 @@
       "properties": {
         "mag": 7.1,
         "place": "Samudra Hindia, 180 km barat daya Bengkulu",
-        "time": 1699344000000,
-        "depth": 35
+        "date": "2/7/2025",
+        "depth": 35,
+        "time": 1751402627000
       },
       "geometry": {
         "type": "Point",
@@ -58,8 +62,9 @@
       "properties": {
         "mag": 5.2,
         "place": "15 km utara Garut, Jawa Barat",
-        "time": 1699430400000,
-        "depth": 12
+        "date": "13/11/2025",
+        "depth": 12,
+        "time": 1763028337000
       },
       "geometry": {
         "type": "Point",
@@ -71,8 +76,9 @@
       "properties": {
         "mag": 6.8,
         "place": "Laut Flores, 50 km utara Maumere, NTT",
-        "time": 1699516800000,
-        "depth": 20
+        "date": "18/9/2025",
+        "depth": 20,
+        "time": 1758175321000
       },
       "geometry": {
         "type": "Point",
@@ -84,8 +90,9 @@
       "properties": {
         "mag": 4.9,
         "place": "22 km barat Lombok Timur, NTB",
-        "time": 1699603200000,
-        "depth": 18
+        "date": "27/10/2025",
+        "depth": 18,
+        "time": 1761505994000
       },
       "geometry": {
         "type": "Point",
@@ -97,8 +104,9 @@
       "properties": {
         "mag": 5.5,
         "place": "Sulawesi Tengah, 30 km selatan Palu",
-        "time": 1699689600000,
-        "depth": 22
+        "date": "23/7/2025",
+        "depth": 22,
+        "time": 1753263481000
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +118,9 @@
       "properties": {
         "mag": 4.2,
         "place": "10 km barat daya Tasikmalaya, Jawa Barat",
-        "time": 1699776000000,
-        "depth": 8
+        "date": "2/12/2025",
+        "depth": 8,
+        "time": 1764670365000
       },
       "geometry": {
         "type": "Point",
@@ -123,8 +132,9 @@
       "properties": {
         "mag": 6.5,
         "place": "Papua, 65 km timur Jayapura",
-        "time": 1699862400000,
-        "depth": 30
+        "date": "13/6/2025",
+        "depth": 30,
+        "time": 1749822274000
       },
       "geometry": {
         "type": "Point",
@@ -136,8 +146,9 @@
       "properties": {
         "mag": 5.0,
         "place": "Aceh, 25 km barat laut Banda Aceh",
-        "time": 1699948800000,
-        "depth": 16
+        "date": "1/5/2025",
+        "depth": 16,
+        "time": 1746080068000
       },
       "geometry": {
         "type": "Point",
@@ -149,8 +160,9 @@
       "properties": {
         "mag": 4.8,
         "place": "Maluku Utara, 18 km selatan Ternate",
-        "time": 1700035200000,
-        "depth": 14
+        "date": "1/9/2025",
+        "depth": 14,
+        "time": 1756725471000
       },
       "geometry": {
         "type": "Point",
@@ -162,8 +174,9 @@
       "properties": {
         "mag": 5.9,
         "place": "Kepulauan Mentawai, 95 km barat Padang",
-        "time": 1700121600000,
-        "depth": 28
+        "date": "27/5/2025",
+        "depth": 28,
+        "time": 1748281731000
       },
       "geometry": {
         "type": "Point",
@@ -175,8 +188,9 @@
       "properties": {
         "mag": 4.6,
         "place": "Bali, 12 km timur Denpasar",
-        "time": 1700208000000,
-        "depth": 11
+        "date": "31/7/2025",
+        "depth": 11,
+        "time": 1753915467000
       },
       "geometry": {
         "type": "Point",
@@ -188,12 +202,97 @@
       "properties": {
         "mag": 5.3,
         "place": "Sumatra Selatan, 40 km tenggara Palembang",
-        "time": 1700294400000,
-        "depth": 19
+        "date": "1/10/2025",
+        "depth": 19,
+        "time": 1759288629000
       },
       "geometry": {
         "type": "Point",
         "coordinates": [104.9908, -3.3181, 19]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.7,
+        "place": "Aceh, 35 km barat daya Simeulue",
+        "date": "27/11/2025",
+        "depth": 24,
+        "time": 1764200901000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.05, 2.45, 24]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.7,
+        "place": "Sulawesi Selatan, 28 km utara Bone Bolango",
+        "date": "5/11/2025",
+        "depth": 13,
+        "time": 1762286724000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.25, -4.25, 13]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.4,
+        "place": "Papua, 42 km selatan Nabire",
+        "date": "19/9/2025",
+        "depth": 21,
+        "time": 1758226974000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.48, -3.68, 21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.0,
+        "place": "Papua Pegunungan, 55 km barat Wamena",
+        "date": "16/10/2025",
+        "depth": 27,
+        "time": 1760589496000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.5, -4.1, 27]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 4.9,
+        "place": "Sulawesi Tengah, 20 km timur laut Poso",
+        "date": "17/8/2025",
+        "depth": 17,
+        "time": 1755369989000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9, -1.3, 17]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 5.6,
+        "place": "Maluku, 38 km tenggara Ambon",
+        "date": "1/10/2025",
+        "depth": 23,
+        "time": 1759313279000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.45, -3.95, 23]
       }
     }
   ]

@@ -25,7 +25,7 @@ $user_reports = $stmt_reports->fetchAll();
     
     <!-- Tabel Data Gempa USGS -->
     <div class="table-wrapper mb-5">
-        <h4 class="mb-3 fw-bold text-primary">📊 Data Gempa USGS (Terdeteksi Alat)</h4>
+        <h4 class="mb-3 fw-bold text-primary">Data Gempa Terdeteksi Alat</h4>
         <div class="table-responsive">
             <table class="table table-striped table-hover" id="earthquakeTable">
                 <thead class="table-primary">
@@ -48,7 +48,7 @@ $user_reports = $stmt_reports->fetchAll();
     
     <!-- Tabel Laporan Gempa dari User -->
     <div class="table-wrapper">
-        <h4 class="mb-3 fw-bold text-danger">👥 Laporan Gempa dari Masyarakat</h4>
+        <h4 class="mb-3 fw-bold text-danger">Laporan Gempa dari Masyarakat</h4>
         
         <?php if (count($user_reports) > 0): ?>
         <div class="alert alert-warning mb-3">

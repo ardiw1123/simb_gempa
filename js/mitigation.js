@@ -1,5 +1,3 @@
-// js/mitigation.js
-
 function showLevel1() {
   hideAllLevels();
   document.getElementById("level1").classList.add("active");

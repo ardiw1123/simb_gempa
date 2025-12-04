@@ -13,7 +13,7 @@ include 'includes/header.php';
                 <div class="mitigation-card phase-sebelum" onclick="showLevel2('sebelum')">
                     <div class="card-content">
                         <div class="icon-wrapper mb-3">
-                            <span class="mitigation-icon">🔵</span>
+                            <span class="mitigation-icon"></span>
                         </div>
                         <h3 class="card-title">Sebelum<br>Gempa</h3>
                     </div>
@@ -24,7 +24,7 @@ include 'includes/header.php';
                 <div class="mitigation-card phase-saat" onclick="showLevel2('saat')">
                     <div class="card-content">
                         <div class="icon-wrapper mb-3">
-                            <span class="mitigation-icon">🔴</span>
+                            <span class="mitigation-icon"></span>
                         </div>
                         <h3 class="card-title">Saat<br>Gempa</h3>
                     </div>
@@ -35,7 +35,7 @@ include 'includes/header.php';
                 <div class="mitigation-card phase-setelah" onclick="showLevel2('setelah')">
                     <div class="card-content">
                         <div class="icon-wrapper mb-3">
-                            <span class="mitigation-icon">🟢</span>
+                            <span class="mitigation-icon"></span>
                         </div>
                         <h3 class="card-title">Setelah<br>Gempa</h3>
                     </div>
@@ -47,7 +47,7 @@ include 'includes/header.php';
         <div class="row mt-4">
             <div class="col-12">
                 <div class="emergency-card" onclick="showEmergency()">
-                    <h3 class="text-center text-white mb-0">📞 Nomor Darurat</h3>
+                    <h3 class="text-center text-white mb-0">Nomor Darurat</h3>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@ include 'includes/header.php';
         <div class="row mt-4">
             <div class="col-12">
                 <div class="note-card" onclick="showLevel3('persiapan-rumah')">
-                    <h4>📝 Catatan Penting</h4>
+                    <h4>Catatan Penting</h4>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@ include 'includes/header.php';
         <div class="row mt-4">
             <div class="col-12">
                 <div class="note-card" onclick="showLevel3('dalam-ruangan')">
-                    <h4>⚠️ Prinsip DROP - COVER - HOLD ON</h4>
+                    <h4>Prinsip DROP - COVER - HOLD ON</h4>
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@ include 'includes/header.php';
         <div class="row mt-4">
             <div class="col-12">
                 <div class="note-card" onclick="showLevel3('langkah-segera')">
-                    <h4>🔔 Waspada Gempa Susulan</h4>
+                    <h4>Waspada Gempa Susulan</h4>
                 </div>
             </div>
         </div>
@@ -199,7 +199,7 @@ include 'includes/header.php';
                     <li>Simpan alat pemadam kebakaran dan pelajari cara menggunakannya</li>
                 </ul>
                 <div class="alert alert-info mt-4">
-                    <strong>💡 Tips:</strong> Lakukan inspeksi rutin setiap 6 bulan untuk memastikan rumah tetap aman!
+                    <strong>Tips:</strong> Lakukan inspeksi rutin setiap 6 bulan untuk memastikan rumah tetap aman!
                 </div>
             </div>
         </div>
@@ -214,7 +214,7 @@ include 'includes/header.php';
         
         <div class="detail-card">
             <div class="detail-content">
-                <h5 class="fw-bold mb-3 text-primary">🎒 Isi Tas Darurat (untuk 3 hari):</h5>
+                <h5 class="fw-bold mb-3 text-primary">Isi Tas Darurat (untuk 3 hari):</h5>
                 <ul class="detail-list">
                     <li><strong>Makanan & Minuman:</strong> Air minum dalam kemasan (minimal 3 liter/orang), makanan kaleng/kering yang tahan lama</li>
                     <li><strong>Obat-obatan:</strong> Obat pribadi, kotak P3K lengkap, antiseptik, perban, plester</li>
@@ -227,7 +227,7 @@ include 'includes/header.php';
                     <li><strong>Lain-lain:</strong> Pisau lipat, korek api tahan air, tali, duct tape</li>
                 </ul>
                 <div class="alert alert-warning mt-3">
-                    <strong>⚠️ Penting:</strong> Letakkan tas darurat di tempat yang mudah dijangkau dan diketahui semua anggota keluarga!
+                    <strong>Penting:</strong> Letakkan tas darurat di tempat yang mudah dijangkau dan diketahui semua anggota keluarga!
                 </div>
             </div>
         </div>
@@ -252,7 +252,7 @@ include 'includes/header.php';
                     <li><strong>Koordinasi Tetangga:</strong> Bangun sistem gotong royong dengan tetangga sekitar</li>
                 </ul>
                 <div class="alert alert-success mt-4">
-                    <strong>✓ Checklist:</strong> Pastikan semua anggota keluarga tahu rencana evakuasi dan pernah mencobanya!
+                    <strong>Checklist:</strong> Pastikan semua anggota keluarga tahu rencana evakuasi dan pernah mencobanya!
                 </div>
             </div>
         </div>
@@ -268,7 +268,7 @@ include 'includes/header.php';
         <div class="detail-card">
             <div class="detail-content">
                 <div class="alert alert-danger mb-4">
-                    <h5 class="fw-bold mb-3">⚠️ DROP - COVER - HOLD ON</h5>
+                    <h5 class="fw-bold mb-3">DROP - COVER - HOLD ON</h5>
                     <ul class="mb-0">
                         <li><strong>DROP:</strong> Jatuhkan diri ke lantai segera</li>
                         <li><strong>COVER:</strong> Lindungi kepala dan leher di bawah meja kokoh</li>
@@ -276,7 +276,7 @@ include 'includes/header.php';
                     </ul>
                 </div>
                 
-                <h5 class="fw-bold mb-3 text-success">✓ Yang HARUS Dilakukan:</h5>
+                <h5 class="fw-bold mb-3 text-success">Yang HARUS Dilakukan:</h5>
                 <ul class="detail-list">
                     <li>Tetap di dalam, JANGAN keluar saat masih guncangan</li>
                     <li>Berlindung di bawah meja atau furniture kokoh</li>
@@ -285,7 +285,7 @@ include 'includes/header.php';
                     <li>Jika di tempat tidur, tetap di tempat tidur dan lindungi kepala dengan bantal</li>
                 </ul>
                 
-                <h5 class="fw-bold mb-3 mt-4 text-danger">❌ Yang JANGAN Dilakukan:</h5>
+                <h5 class="fw-bold mb-3 mt-4 text-danger">Yang JANGAN Dilakukan:</h5>
                 <ul class="detail-list">
                     <li>JANGAN panik dan berlari keluar</li>
                     <li>JANGAN menggunakan lift</li>
@@ -315,7 +315,7 @@ include 'includes/header.php';
                     <li>Tetap tenang dan tunggu sampai guncangan benar-benar berhenti</li>
                 </ul>
                 <div class="alert alert-warning mt-4">
-                    <strong>🌊 Peringatan Tsunami:</strong> Jika gempa kuat terjadi di pantai, segera lari ke tempat tinggi tanpa menunggu peringatan!
+                    <strong>Peringatan Tsunami:</strong> Jika gempa kuat terjadi di pantai, segera lari ke tempat tinggi tanpa menunggu peringatan!
                 </div>
             </div>
         </div>
@@ -341,7 +341,7 @@ include 'includes/header.php';
                     <li>Perhatikan kondisi jalan sebelum melanjutkan perjalanan</li>
                 </ul>
                 <div class="alert alert-info mt-4">
-                    <strong>💡 Tips:</strong> Simpan air minum dan selimut darurat di bagasi mobil untuk antisipasi!
+                    <strong>Tips:</strong> Simpan air minum dan selimut darurat di bagasi mobil untuk antisipasi!
                 </div>
             </div>
         </div>
@@ -367,7 +367,7 @@ include 'includes/header.php';
                     <li>Tutup mulut dengan kain untuk menghindari debu</li>
                 </ul>
                 <div class="alert alert-danger mt-4">
-                    <strong>🆘 Terjebak dalam Reruntuhan:</strong> Jangan bergerak banyak, tutup mulut, ketuk pipa secara berkala untuk memberi sinyal!
+                    <strong>Terjebak dalam Reruntuhan:</strong> Jangan bergerak banyak, tutup mulut, ketuk pipa secara berkala untuk memberi sinyal!
                 </div>
             </div>
         </div>
@@ -392,7 +392,7 @@ include 'includes/header.php';
                     <li><strong>Periksa Sekitar:</strong> Bantu tetangga yang membutuhkan</li>
                 </ul>
                 <div class="alert alert-danger mt-3">
-                    <strong>🔥 Bahaya!</strong> Jangan menyalakan api, rokok, atau saklar listrik jika ada indikasi kebocoran gas!
+                    <strong>Bahaya!</strong> Jangan menyalakan api, rokok, atau saklar listrik jika ada indikasi kebocoran gas!
                 </div>
             </div>
         </div>
@@ -418,7 +418,7 @@ include 'includes/header.php';
                     <li>Laporkan korban atau kerusakan ke pihak berwenang</li>
                 </ul>
                 <div class="alert alert-warning mt-3">
-                    <strong>🔔 Gempa Susulan:</strong> Gempa susulan bisa terjadi dalam hitungan menit, jam, atau hari. Tetap waspada dan siap berlindung kembali!
+                    <strong>Gempa Susulan:</strong> Gempa susulan bisa terjadi dalam hitungan menit, jam, atau hari. Tetap waspada dan siap berlindung kembali!
                 </div>
             </div>
         </div>
@@ -429,7 +429,7 @@ include 'includes/header.php';
         <button class="btn btn-outline-primary mb-4" onclick="showLevel1()">
             ← Kembali
         </button>
-        <h3 class="text-center mb-4 fw-bold">📞 Nomor Darurat</h3>
+        <h3 class="text-center mb-4 fw-bold">Nomor Darurat</h3>
         
         <div class="row g-4">
             <div class="col-md-6">
@@ -453,7 +453,7 @@ include 'includes/header.php';
             <div class="col-md-6">
                 <div class="emergency-number-card">
                     <h4>Ambulans</h4>
-                    <h2 class="emergency-number">118 / 119</h2>
+                    <h2 class="emergency-number">119</h2>
                 </div>
             </div>
             <div class="col-md-6">
@@ -471,7 +471,7 @@ include 'includes/header.php';
         </div>
         
         <div class="alert alert-info mt-4 text-center">
-            <strong>📱 Tips:</strong> Simpan screenshot halaman ini agar bisa diakses saat offline!
+            <strong>Tips:</strong> Simpan screenshot halaman ini agar bisa diakses saat offline!
         </div>
     </div>
 </div>

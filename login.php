@@ -80,7 +80,7 @@ include 'includes/header.php';
                 
                 <div class="d-grid gap-2 mb-3">
                     <button type="submit" class="btn btn-primary btn-lg">
-                        <strong>🔐 Login</strong>
+                        <strong>Login</strong>
                     </button>
                 </div>
                 
@@ -91,13 +91,13 @@ include 'includes/header.php';
             
             <hr class="my-4">
             
-            <div class="alert alert-info mb-0">
+            <!-- <div class="alert alert-info mb-0">
                 <strong>Akun Demo:</strong><br>
                 <small>
                     Admin: admin@simb.com / password123<br>
                     User: user@simb.com / password123
                 </small>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
